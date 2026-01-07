@@ -28,7 +28,7 @@ Type your search term.
 
 Click Search or press Enter.
 
-Live Demo
+Live Demo: https://haridh432.github.io/google-clone/
 
 (After you enable GitHub Pages, your link will show here)
 
